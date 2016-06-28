@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_linkedin"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="@string/str_linkedin" />
+        <item
+            android:id="@+id/nav_job_search"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="@string/str_job_search" />
+        <item
+            android:id="@+id/nav_pulse"
+            android:icon="@drawable/ic_subject_black_24dp"
+            android:title="@string/str_pulse" />
+        <item
+            android:id="@+id/nav_yoteshin"
+            android:icon="@drawable/ic_local_movies_black_24dp"
+            android:title="@string/str_yoteshin" />
+        <item
+            android:id="@+id/nav_wonzin"
+            android:icon="@drawable/ic_import_contacts_black_24dp"
+            android:title="@string/str_wonzin" />
+    </group>
+</menu>
