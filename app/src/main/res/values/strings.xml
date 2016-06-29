@@ -8,8 +8,13 @@
     <string name="str_linkedin">PADC - LinkedIn</string>
     <string name="str_job_search">PADC - Job Search</string>
     <string name="str_pulse">PADC - Pulse</string>
-    <string name="str_yoteshin">PADC - youtshin</string>
-    <string name="str_wonzin">PADC - Wonzin</string>
+    <string name="str_yoteshin">PADC - ရုပ်ရှင်</string>
+    <string name="str_wonzin">PADC - ၀န်ဇင်း</string>
     <string name="email">phyokhantzin@gmail.com</string>
     <string name="body_text">Start from Left Drawer here ...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
 </resources>
