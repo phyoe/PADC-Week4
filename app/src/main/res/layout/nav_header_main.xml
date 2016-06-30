@@ -18,7 +18,7 @@
         android:layout_height="96dp"
         android:elevation="4dp"
         android:paddingTop="@dimen/activity_vertical_margin_1"
-        android:src="@mipmap/ic_launcher" />
+        android:src="@drawable/user_drawer" />
 
     <FrameLayout
         android:layout_width="match_parent"

@@ -13,8 +13,15 @@
     <string name="email">phyokhantzin@gmail.com</string>
     <string name="body_text">Start from Left Drawer here ...</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
+    <!-- LinkedIn -->
+    <string name="linkedin_name">Phyoe Khant Zin</string>
+    <string name="linkedin_degree">B.C.Sc (UCSY)</string>
+    <string name="linkedin_profile">PHP Web Developer in Brilliant Sky Group Co.Ltd. Major Business is Used Car selling in both Japan and Myanamar. Website is https//caroll.me.</string>
+    <string name="linkedin_job_address">Myanmar</string>
+    <string name="linkedin_user_position">PHP Web Developer</string>
+    <string name="linkedin_view_count">Who\'s viewed your profile</string>
+    <string name="linkedin_share_count">Who\'s shared your profile</string>
+    <string name="linkedin_banner">Strengthen your profile</string>
+    <string name="linkedin_skill">Showcase what you know, add suggested skill to your skill</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>

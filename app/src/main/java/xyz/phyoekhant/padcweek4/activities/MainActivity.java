@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-        navigationView.setCheckedItem(R.id.nav_linkedin);
+        //navigationView.setCheckedItem(R.id.nav_linkedin);
 
         flContainer = (FrameLayout) findViewById(R.id.fl_container);
         toolbar.setTitle(R.string.app_name);
