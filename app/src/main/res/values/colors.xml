@@ -9,4 +9,7 @@
     <color name="color_accent_two">#018ccf</color>
 
     <color name="text_black_full">#000</color>
+    <color name="border_gray">#cbcbcb</color>
+
+
 </resources>

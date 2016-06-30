@@ -23,5 +23,23 @@
     <string name="linkedin_share_count">Who\'s shared your profile</string>
     <string name="linkedin_banner">Strengthen your profile</string>
     <string name="linkedin_skill">Showcase what you know, add suggested skill to your skill</string>
+
+
+    <!-- Job Search -->
+    <string name="job_search_switch">Create a job alert</string>
+    <string name="job_search_bank_1">Developer / Senior Developer</string>
+    <string name="job_search_bank_2">Standard Chartered Bank</string>
+    <string name="job_search_sg">Singapore</string>
+    <string name="job_search_sg_01">Singapore - 01</string>
+    <string name="job_search_facebook_1">Client Partner,\nMobile Publisher Sales - Japan</string>
+    <string name="job_search_facebook_2">Facebook</string>
+    <string name="job_search_sap_1">SAP Partner Solution Center</string>
+    <string name="job_search_sap_2">Head for APJ &amp; Greater China</string>
+    <string name="job_search_cloud_1">Technical Architect Marketing Cloud</string>
+    <string name="job_search_cloud_2">salesforce.com</string>
+    <string name="job_search_bank_button">New</string>
+    <string name="job_search_3w">3w</string>
+    <string name="job_search_sap">SAP</string>
+    <string name="job_search_1w">1w</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>
