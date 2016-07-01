@@ -34,6 +34,7 @@
     <dimen name="card_elevation">2dp</dimen>
 
     <dimen name="image_size_job_search">100dp</dimen>
+    <dimen name="button_size_job_search">24dp</dimen>
     <dimen name="button_size_job_search_width">64dp</dimen>
     <dimen name="button_size_job_search_height">24dp</dimen>
 </resources>

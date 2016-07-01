@@ -41,5 +41,11 @@
     <string name="job_search_3w">3w</string>
     <string name="job_search_sap">SAP</string>
     <string name="job_search_1w">1w</string>
+    <string name="pulse_title_1">Good Morning, Phyoe Khant</string>
+    <string name="pulse_title_2">Here are your top stories for the day</string>
+    <string name="pulse_editor_title">Editor\'s Pick</string>
+    <string name="pulse_editor_3h">3h</string>
+    <string name="pulse_title_china">China Has High-Performing Companies-It Just Needs a Lot Mor of Them</string>
+    <string name="pulse_title_author_share">Gordon Orr / 131 shares</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>

@@ -12,17 +12,19 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingTop="?attr/actionBarSize"
             android:background="@drawable/linkedin_background"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:paddingTop="?attr/actionBarSize">
 
             <ImageView
+                android:id="@+id/linkedin_setting"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="right"
-                android:layout_marginTop="@dimen/margin_medium_2"
-                android:layout_marginRight="@dimen/margin_medium_2"
                 android:layout_marginBottom="@dimen/margin_xxlarge"
+                android:layout_marginRight="@dimen/margin_medium_2"
+                android:layout_marginTop="@dimen/margin_medium_2"
+                android:clickable="true"
                 android:src="@drawable/ic_settings_24dp" />
 
             <include
@@ -44,11 +46,12 @@
     </ScrollView>
 
     <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab"
+        android:id="@+id/linkedin_fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
+        android:clickable="true"
         android:src="@drawable/ic_add_24dp" />
 
 </FrameLayout>
