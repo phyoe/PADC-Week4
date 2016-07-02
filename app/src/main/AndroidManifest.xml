@@ -3,6 +3,7 @@
     package="xyz.phyoekhant.padcweek4">
 
     <application
+        android:name=".PADCWeek4App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"

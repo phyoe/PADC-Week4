@@ -2,7 +2,6 @@ package xyz.phyoekhant.padcweek4.activities;
 
 import android.os.Bundle;
 import android.os.Handler;
-import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -12,14 +11,13 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.FrameLayout;
-import android.widget.ImageView;
 
 import xyz.phyoekhant.padcweek4.R;
 import xyz.phyoekhant.padcweek4.fragments.JobSearchFragment;
 import xyz.phyoekhant.padcweek4.fragments.LinkedinFragment;
 import xyz.phyoekhant.padcweek4.fragments.MainFragment;
 import xyz.phyoekhant.padcweek4.fragments.PulseFragment;
-import xyz.phyoekhant.padcweek4.fragments.WonZinFragment;
+import xyz.phyoekhant.padcweek4.fragments.WunZinnFragment;
 import xyz.phyoekhant.padcweek4.fragments.YoteShinFragment;
 
 public class MainActivity extends AppCompatActivity
@@ -155,7 +153,7 @@ public class MainActivity extends AppCompatActivity
     }
 
     private void navigateToWonZin() {
-        WonZinFragment fragment = new WonZinFragment();
+        WunZinnFragment fragment = new WunZinnFragment();
         getSupportFragmentManager()
                 .beginTransaction()
                 .replace(R.id.fl_container,fragment)

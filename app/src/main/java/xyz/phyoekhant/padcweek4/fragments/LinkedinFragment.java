@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.Toast;
 
 import xyz.phyoekhant.padcweek4.R;
 import xyz.phyoekhant.padcweek4.views.ViewItemLinkedIn;
@@ -26,7 +27,7 @@ public class LinkedinFragment extends Fragment {
         linkedinSetting.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Toast.makeText(getContext(), "Setting click ...", Toast.LENGTH_SHORT).show();
             }
         });
 
@@ -34,7 +35,7 @@ public class LinkedinFragment extends Fragment {
         linkedinFab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Toast.makeText(getContext(), "Fab click ...", Toast.LENGTH_SHORT).show();
             }
         });
 
@@ -42,7 +43,7 @@ public class LinkedinFragment extends Fragment {
         imgEdit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Toast.makeText(getContext(), "Edit click ...", Toast.LENGTH_SHORT).show();
             }
         });
 
@@ -50,7 +51,7 @@ public class LinkedinFragment extends Fragment {
         imgClose.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Toast.makeText(getContext(), "Close click ...", Toast.LENGTH_SHORT).show();
             }
         });
 

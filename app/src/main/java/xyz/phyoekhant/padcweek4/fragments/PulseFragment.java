@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 import xyz.phyoekhant.padcweek4.R;
 
@@ -31,7 +32,7 @@ public class PulseFragment extends Fragment {
         pulseTouch.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Toast.makeText(getContext(), "Pulse touch click ...", Toast.LENGTH_SHORT).show();
             }
         });
 
@@ -39,7 +40,7 @@ public class PulseFragment extends Fragment {
         pulsePerson.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Toast.makeText(getContext(), "Person click ...", Toast.LENGTH_SHORT).show();
             }
         });
 
@@ -47,7 +48,7 @@ public class PulseFragment extends Fragment {
         pulseSearch.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Toast.makeText(getContext(), "Search click ...", Toast.LENGTH_SHORT).show();
             }
         });
 
@@ -55,7 +56,7 @@ public class PulseFragment extends Fragment {
         pulseSetting.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                Toast.makeText(getContext(), "Setting click ...", Toast.LENGTH_SHORT).show();
             }
         });
 
